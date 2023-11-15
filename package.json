@@ -1,0 +1,15 @@
+{
+  "name": "balegpt",
+  "version": "1.0.0",
+  "description": "An ChatGPT 3.5 bot for Bale",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
