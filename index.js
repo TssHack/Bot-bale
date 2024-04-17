@@ -1,7 +1,7 @@
 const BaleBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
-const token = '795580184:wWSjUOgCvdWagY6qSLvUDLQ63iIGLMgNHtoxjSWd'; // your bale bot token
+const token = '1194071242:KzoydgjwBrL1mlDj5jTEdgznFE9SUcmxsmOfDBgT'; // your bale bot token
 
 const options = {
     baseApiUrl: 'https://tapi.bale.ai',
